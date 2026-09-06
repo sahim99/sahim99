@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,0055ff,00f3ff&height=300&section=header&text=MD%20SAHIMUZZAMAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=51&descAlign=62&descSize=20" alt="Hero Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00aa,100:00f3ff&height=300&section=header&text=MD%20SAHIMUZZAMAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=51&descAlign=62&descSize=20" alt="Hero Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -27,36 +27,36 @@ I'm a **Software Engineer** focused on building **AI-powered applications**, **L
   <tr>
     <td width="50%">
       <a href="https://github.com/sahim99/ai-chat-app">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=ai-chat-app&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="AI Chat App" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=ai-chat-app&theme=radical&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="AI Chat App" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/sahim99/rag-based-question-answering-system">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=rag-based-question-answering-system&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="RAG System" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=rag-based-question-answering-system&theme=radical&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="RAG System" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/sahim99/Ai-Web-Scraper">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=Ai-Web-Scraper&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="AI Web Scraper" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=Ai-Web-Scraper&theme=radical&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="AI Web Scraper" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/sahim99/dual-llm-news-validator">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=dual-llm-news-validator&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Dual LLM News Validator" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=dual-llm-news-validator&theme=radical&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Dual LLM News Validator" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/sahim99/core-web-ops">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=core-web-ops&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Core Web Ops" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=core-web-ops&theme=radical&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Core Web Ops" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/sahim99/Portfolio">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=Portfolio&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Portfolio" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=sahim99&repo=Portfolio&theme=radical&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Portfolio" width="100%" />
       </a>
     </td>
   </tr>
@@ -121,10 +121,10 @@ I'm a **Software Engineer** focused on building **AI-powered applications**, **L
 
 <div align="center">
   <a href="https://github.com/sahim99">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahim99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahim99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="49%" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/sahim99">
-    <img src="https://streak-stats.demolab.com/?user=sahim99&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=sahim99&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="GitHub Streak" />
   </a>
 </div>
 

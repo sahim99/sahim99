@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=MD%20SAHIMUZZAMAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=51&descAlign=62&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=300&section=header&text=MD%20SAHIMUZZAMAN&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%E2%80%A2%20FULL-STACK%20DEVELOPER&descAlignY=51&descAlign=62&descSize=20&stroke=000000" alt="Hero Banner" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://github.com/sahim99">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-world+AI+applications;Learning+Cloud+%26+MLOps;Exploring+exciting+projects;Improving+every+day;Repeating...++%E2%96%8C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E+sahim99%40github%3A~%24+.%2Fbuild.sh;BUILDING+AI+SYSTEMS...;EXPLORING+LLMs...;BUILDING+FULL-STACK+PRODUCTS...;LEARNING+CLOUD...;OPEN+SOURCE...;%3E+Discipline+turns+ideas+into+reality." alt="Terminal Animation" />
   </a>
 </div>
 
 <br/>
 
-## 👋 Hi, I'm Sahim!
+## 👋 Hi, I'm Sahim
 
-I'm a **Software Engineer** passionate about building **AI-powered applications**, intelligent backend systems, and modern full-stack products. I love exploring new technologies, solving real-world problems, and turning ideas into useful solutions.
+I'm a **Software Engineer** focused on building **AI-powered applications**, **LLM systems**, **RAG systems**, **modern full-stack products**, and **cloud-ready backends**. I thrive at the intersection of artificial intelligence and scalable software engineering.
 
 - 🌍 Based in **Bangladesh**
-- ✉️ Contact me at **[sahimuzzaman.dev@gmail.com](mailto:sahimuzzaman.dev@gmail.com)**
-- 🌐 Portfolio: **[https://sahim99.dev](https://sahim99.dev)**
-- 💼 LinkedIn: **[linkedin.com/in/sahim99](https://linkedin.com/in/sahim99)**
+- ✉️ Contact me at **[m.sahimuzzaman@gmail.com](mailto:m.sahimuzzaman@gmail.com)**
+- 🌐 Portfolio: **[https://sahim99.github.io/Portfolio/](https://sahim99.github.io/Portfolio/)**
+- 💼 LinkedIn: **[md-sahimuzzaman](https://www.linkedin.com/in/md-sahimuzzaman-7976902b6/)**
 
 ---
 
@@ -50,51 +50,56 @@ I'm a **Software Engineer** passionate about building **AI-powered applications*
 
 <div align="left">
   
-**Languages** <br/>
+**LANGUAGES** <br/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
 <br/>
 
 **AI / LLM** <br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=HuggingFace&logoColor=white" alt="HuggingFace" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenRouter" />
+<img src="https://img.shields.io/badge/Groq-F3722C?style=for-the-badge&logo=ai&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/FAISS-1C3C3C?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=data-science&logoColor=white" alt="RAG" />
 
 <br/>
 
-**Backend** <br/>
+**BACKEND** <br/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 <br/>
 
-**Frontend** <br/>
+**FRONTEND** <br/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 
 <br/>
 
-**Cloud / DevOps** <br/>
+**CLOUD / DEVOPS** <br/>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
 ---
 
 ## 📊 GitHub Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahim99/sahim99/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahim99/sahim99/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahim99/sahim99/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/sahim99">
@@ -105,22 +110,23 @@ I'm a **Software Engineer** passionate about building **AI-powered applications*
   </a>
 </div>
 
-<br/>
-
-<hr/>
+---
 
 <div align="center">
   <br/>
   <h3><i>"A better tomorrow is a commit away."</i></h3>
   <br/>
   <p>
-    <a href="https://linkedin.com/in/sahim99">
+    <a href="https://github.com/sahim99">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/md-sahimuzzaman-7976902b6/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://sahim99.dev">
+    <a href="https://sahim99.github.io/Portfolio/">
       <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="mailto:sahimuzzaman.dev@gmail.com">
+    <a href="mailto:m.sahimuzzaman@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>

@@ -23,26 +23,44 @@ I'm a **Software Engineer** focused on building **AI-powered applications**, **L
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/sahim99/ai-chat-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=ai-chat-app&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="AI Chat App" width="48%" />
-  </a>
-  <a href="https://github.com/sahim99/rag-based-question-answering-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=rag-based-question-answering-system&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="RAG System" width="48%" />
-  </a>
-  <a href="https://github.com/sahim99/Ai-Web-Scraper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=Ai-Web-Scraper&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="AI Web Scraper" width="48%" />
-  </a>
-  <a href="https://github.com/sahim99/dual-llm-news-validator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=dual-llm-news-validator&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Dual LLM News Validator" width="48%" />
-  </a>
-  <a href="https://github.com/sahim99/core-web-ops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=core-web-ops&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Core Web Ops" width="48%" />
-  </a>
-  <a href="https://github.com/sahim99/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=Portfolio&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Portfolio" width="48%" />
-  </a>
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sahim99/ai-chat-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=ai-chat-app&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="AI Chat App" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sahim99/rag-based-question-answering-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=rag-based-question-answering-system&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="RAG System" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sahim99/Ai-Web-Scraper">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=Ai-Web-Scraper&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="AI Web Scraper" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sahim99/dual-llm-news-validator">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=dual-llm-news-validator&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Dual LLM News Validator" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/sahim99/core-web-ops">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=core-web-ops&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Core Web Ops" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/sahim99/Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahim99&repo=Portfolio&theme=tokyonight&show_owner=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9" alt="Portfolio" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 

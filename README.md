@@ -14,7 +14,7 @@
 
 I'm a **Software Engineer** focused on building **AI-powered applications**, **LLM systems**, **RAG systems**, **modern full-stack products**, and **cloud-ready backends**. I thrive at the intersection of artificial intelligence and scalable software engineering.
 
-- 🌍 Based in **Bangladesh**
+- 🌍 Based in **Kolkata, India**
 - ✉️ Contact me at **[m.sahimuzzaman@gmail.com](mailto:m.sahimuzzaman@gmail.com)**
 - 🌐 Portfolio: **[https://sahim99.github.io/Portfolio/](https://sahim99.github.io/Portfolio/)**
 - 💼 LinkedIn: **[md-sahimuzzaman](https://www.linkedin.com/in/md-sahimuzzaman-7976902b6/)**
